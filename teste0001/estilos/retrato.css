@@ -1,3 +1,8 @@
 @charset "UTF-8";
 
 /* Aparelho deitado (landscape) */
+
+body {
+  background-image: url("../teste0001/imagem/carro.jpg"), url("../teste0001/imagem/carro2.jpg"), url("../teste0001/imagem/carro3.jpg");
+  background-position: center bottom;
+ }
